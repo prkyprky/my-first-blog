@@ -1,0 +1,4 @@
+
+byt vnoren do slozky djangogirls a spustit:
+
+myvenv\Scripts\activate
